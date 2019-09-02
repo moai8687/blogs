@@ -61,6 +61,9 @@ Go 语言通过改善或去除在 C、C++ 或 Java 中的一些所谓“开放�
 
 欢迎来到 Go 语言开发的奇妙世界！
 
+
+<extoc></extoc>
+
 ## 链接
 
 - [目录](directory.md)
